@@ -1,1 +1,3 @@
-# Detection of Breast Cancer using different machine learning methology 
+# Detection of breast cancer using machine learning  
+---
+## Introduction
